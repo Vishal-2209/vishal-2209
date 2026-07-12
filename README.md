@@ -166,9 +166,9 @@ Student resource platform scaled to **1,200+ concurrent active users** within it
 
 <div align="center">
 
-![Vishal-2209's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishal-2209&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true)
+![Vishal-2209's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishal-2209&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-2209&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-2209&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true)
 
 </div>
 
