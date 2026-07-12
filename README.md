@@ -162,15 +162,15 @@ Student resource platform scaled to **1,200+ concurrent active users** within it
 
 ---
 
-## 📊 GitHub Stats
+## 💡 What I Do
 
-<div align="center">
+> Most of my production work lives in private repos — here's a snapshot of what I build.
 
-![Vishal-2209's GitHub stats](https://github-readme-stats-sigma-ashy.vercel.app/api?username=Vishal-2209&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true)
-
-![Top Languages](https://github-readme-stats-sigma-ashy.vercel.app/api/top-langs/?username=Vishal-2209&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true)
-
-</div>
+- **Backend Systems** — Scalable Django applications with JWT auth, REST APIs, and PostgreSQL/MySQL databases
+- **Full-Stack Products** — End-to-end deployments using Django + React.js on Render/Vercel
+- **Legal Tech** — AI-powered case assessment engines using OpenAI and NVIDIA Nemotron
+- **Student Platforms** — High-concurrency resource sharing systems serving 1,200+ users
+- **ML Pipelines** — Preprocessing, feature engineering, and model evaluation with scikit-learn
 
 ---
 
