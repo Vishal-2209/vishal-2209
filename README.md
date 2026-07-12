@@ -1,90 +1,76 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3776AB,100:092E20&height=220&section=header&text=Vishal+Aidasani&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Building+things+that+actually+work&descSize=18&descAlignY=55&animation=fadeIn&theme=tokyonight" width="100%"/>
+### Hi there, I'm [Vishal Aidasani](https://www.vishal-aidasani.in) 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full+Stack+Python+Developer;Django+%7C+React+%7C+AI%2FLLMs;Building+LawPrix+%26+Nexus)](https://git.io/typing-svg)
+**Full Stack Python Developer | B.Tech ICT @ PDEU (2027)**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=3776AB)](https://www.vishal-aidasani.in)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/vishal-aidasani)
-[![Email](https://img.shields.io/badge/📧_Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:hello@vishal-aidasani.in)
-[![Resume](https://img.shields.io/badge/📄_Resume-0d1117?style=for-the-badge&logo=adobeacrobatreader&logoColor=FF0000)](https://www.vishal-aidasani.in/static/Vishal_Aidasani_Resume.pdf)
-[![LeetCode](https://img.shields.io/badge/⌨️_LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/vishal_aidasani/)
+Building robust backend systems and scaling digital platforms from concept to launch.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.vishal-aidasani.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-aidasani)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@vishal-aidasani.in)
+[![Resume](https://img.shields.io/badge/Resume-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://www.vishal-aidasani.in/static/Vishal_Aidasani_Resume.pdf)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/vishal_aidasani/)
 
 </div>
 
 ---
 
-### 👋 About
+## 🚀 About Me
 
-I'm a **Full Stack Python Developer** from Ahmedabad who builds **production-ready web applications** that scale. Currently pursuing **B.Tech ICT @ PDEU (2027)**.
+I'm a **Full Stack Python Developer** based in Ahmedabad, India, with **2+ years of hands-on experience** building production-ready web applications. I specialize in **Django, React.js, and modern backend systems** — from designing scalable APIs to deploying full-stack products that serve real users.
 
-I don't just write code — I ship products that real people use.
-
-- ⚖️ Built **LawPrix** — AI-powered legal SaaS with NVIDIA Nemotron & OpenAI
-- 📈 Built **Nexus** — Scaled to **1,200+ concurrent users** in first exam cycle
-- 🎨 Shipped **3+ client products** from zero to production as a freelancer
-- 🧠 **ML pipelines** with scikit-learn for real-world datasets
+- 🏗️ Built **LawPrix** — a production-grade multi-portal legal SaaS platform with an AI-powered case assessment engine using NVIDIA Nemotron and OpenAI
+- 📈 Created **Nexus** — a student resource platform scaled to **1,200+ concurrent active users** within its first exam cycle
+- 🎨 Shipped **3+ client products** from concept to live deployment as a freelance developer
+- 🧠 Experience with **Machine Learning** pipelines using scikit-learn on real-world datasets
 - 🏆 **2nd Runner-Up** — Tutedude Buildathon 2025
-- 📜 **DeepLearning.AI Certified** — Supervised Machine Learning
+- 📜 Certified in **Supervised Machine Learning: Regression & Classification** — DeepLearning.AI
 
 ---
 
-### 🛠️ Skills
-
-<div align="center">
-
-<img src="https://skill-icons.dev/api/icons?i=python,django,javascript,react,tailwind,postgresql,firebase,supabase,git,github,figma,vercel,render&theme=dark" width="500"/>
-
-</div>
-
-<table>
-<tr>
-<td>
-
-```text
- Python       ████████████████████  95%
- Django       ███████████████████░  90%
- React.js     ████████████████░░░░  80%
- REST APIs    ████████████████████  90%
- SQL          ██████████████████░░  85%
- JavaScript   ████████████████░░░░  80%
-```
-
-</td>
-<td>
-
-```text
- PostgreSQL   ████████████████░░░░  80%
- Firebase     ██████████████░░░░░░  70%
- Supabase     ██████████████░░░░░░  70%
- Git/GitHub   ████████████████████  90%
- Figma        ████████████████░░░░  80%
- OpenAI/LLMs  ██████████████░░░░░░  70%
-```
-
-</td>
-</tr>
-</table>
-
----
-
-### 💼 Experience
+## 💼 Experience
 
 <table>
 <tr>
 <td width="100%">
 
-**🚀 Full Stack Python Developer** — *Atodya Pvt. Ltd.* &nbsp; `May 2026 — Jun 2026`
-- 3+ client products from concept to live — Django + React, JWT auth, REST APIs, Render
+**Full Stack Python Developer** &nbsp; @ &nbsp; *Atodya Pvt. Ltd.*
+> _May 2026 — Jun 2026_
 
-**🧠 Data Science Intern** — *Sysslan IT Solutions* &nbsp; `Jan 2026 — Apr 2026`
-- Built ML pipeline infrastructure — preprocessing, feature engineering, scikit-learn
+- 3+ client products went from concept to live deployment using Django + React.js, each with full JWT auth, APIs, and Render hosting
+- Client onboarding time dropped after reusable Django app structures and component libraries were introduced across projects
 
-**🎨 UI/UX Developer** — *Meru Technosoft Pvt Ltd* &nbsp; `May 2023 — Jul 2025`
-- React component library, pixel-accurate Figma-to-production, enterprise dashboards
+</td>
+</tr>
+<tr>
+<td width="100%">
 
-**⚡ Front-End Developer** — *Cargar Pvt Ltd* &nbsp; `Jan 2025 — May 2025`
-- Production landing pages with lazy loading, code splitting, React + Tailwind
+**Data Science Intern** &nbsp; @ &nbsp; *Sysslan IT Solutions*
+> _Jan 2026 — Apr 2026_
+
+- Established ML pipeline infrastructure for the team — preprocessing, feature engineering, and model evaluation using scikit-learn on real-world datasets
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+**UI/UX Designer & Developer** &nbsp; @ &nbsp; *Meru Technosoft Pvt Ltd*
+> _May 2023 — Jul 2025_
+
+- Reduced UI development time across 2+ products after introducing a shared React.js component library
+- Converted Figma designs into pixel-accurate responsive interfaces for enterprise dashboards
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+**Front-End Developer Intern** &nbsp; @ &nbsp; *Cargar Pvt Ltd*
+> _Jan 2025 — May 2025_
+
+- Shipped production landing pages with improved performance via lazy loading, code splitting, and React.js + Tailwind CSS
 
 </td>
 </tr>
@@ -92,28 +78,30 @@ I don't just write code — I ship products that real people use.
 
 ---
 
-### 🏗️ Featured Projects
+## 🏗️ Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-#### ⚖️ LawPrix
-> AI-powered legal SaaS platform with multi-portal architecture
+### ⚖️ LawPrix
 
-`Python` `Django` `React` `Supabase` `PostgreSQL` `OpenAI`
+A production-grade multi-portal **legal SaaS platform** with an AI-powered case assessment engine using NVIDIA Nemotron and OpenAI.
 
-[🔗 Live Demo](https://vakaalat.vishal-aidasani.in)
+**Stack:** Python · Django · React.js · Supabase · PostgreSQL · OpenAI
+
+🔗 [Live Demo](https://vakaalat.vishal-aidasani.in)
 
 </td>
 <td width="50%">
 
-#### 📚 Nexus
-> Student resource platform — 1,200+ concurrent users at launch
+### 📚 Nexus
 
-`Python` `Django` `Firebase` `Supabase` `MySQL`
+Student resource platform scaled to **1,200+ concurrent active users** within its first exam cycle.
 
-[🔗 Live Demo](https://nexus.vishal-aidasani.in)
+**Stack:** Python · Django · Firebase · Supabase · MySQL
+
+🔗 [Live Demo](https://nexus.vishal-aidasani.in)
 
 </td>
 </tr>
@@ -121,15 +109,115 @@ I don't just write code — I ship products that real people use.
 
 ---
 
-### 🏆 Achievements
+## 🛠️ Skills & Expertise
+
+<table>
+<tr>
+<td width="50%">
+
+**Backend & Languages**
+
+<br>
+
+```
+Python       ████████████████████░  95%
+Django       ███████████████████░░  90%
+Flask        ██████████████░░░░░░░  70%
+JavaScript   ████████████████░░░░░  80%
+SQL          ██████████████████░░░  85%
+HTML/CSS     ████████████████░░░░░  80%
+```
+
+</td>
+<td width="50%">
+
+**Frontend & Frameworks**
+
+<br>
+
+```
+React.js     ████████████████░░░░░  80%
+Tailwind CSS ██████████████░░░░░░░  70%
+REST APIs    ████████████████████░  90%
+Firebase     ██████████████░░░░░░░  70%
+PostgreSQL   ████████████████░░░░░  80%
+Supabase     ██████████████░░░░░░░  70%
+```
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%">
+
+**AI & Machine Learning**
+
+<br>
+
+```
+OpenAI SDK   ██████████████░░░░░░░  70%
+LangGraph    ████████████░░░░░░░░░  60%
+CrewAI       ████████████░░░░░░░░░  60%
+scikit-learn ██████████████░░░░░░░  70%
+```
+
+</td>
+<td width="50%">
+
+**Tools & Deployment**
+
+<br>
+
+```
+Git/GitHub   ████████████████████░  90%
+Figma        ████████████████░░░░░  80%
+Postman      ████████████████░░░░░  80%
+Vercel       ██████████████░░░░░░░  70%
+Render       ██████████████░░░░░░░  70%
+Netlify      ██████████████░░░░░░░  70%
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Achievements
+
+| Achievement | Details |
+|---|---|
+| 🥈 **2nd Runner-Up** | Tutedude Buildathon 2025 |
+| 📜 **Certification** | Supervised Machine Learning: Regression & Classification — DeepLearning.AI |
+| 🚀 **Startup Pitch** | Nirman 1.0 — PDEU |
+
+---
+
+## 💡 What I Do
+
+> Most of my production work lives in private repos — here's a snapshot of what I build.
+
+- **Backend Systems** — Scalable Django applications with JWT auth, REST APIs, and PostgreSQL/MySQL databases
+- **Full-Stack Products** — End-to-end deployments using Django + React.js on Render/Vercel
+- **Legal Tech** — AI-powered case assessment engines using OpenAI and NVIDIA Nemotron
+- **Student Platforms** — High-concurrency resource sharing systems serving 1,200+ users
+- **ML Pipelines** — Preprocessing, feature engineering, and model evaluation with scikit-learn
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
-| | Achievement |
-|---|---|
-| 🥈 | **2nd Runner-Up** — Tutedude Buildathon 2025 |
-| 📜 | **Certified** — Supervised ML: Regression & Classification (DeepLearning.AI) |
-| 🚀 | **Startup Pitch** — Nirman 1.0 @ PDEU |
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.vishal-aidasani.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-aidasani)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishal-2209)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/vishal_aidasani/)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Vi27888Vishal)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vishal.aidasani_)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@vishal-aidasani.in)
 
 </div>
 
@@ -137,8 +225,6 @@ I don't just write code — I ship products that real people use.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:092E20,100:3776AB&height=120&section=footer&text=Build+useful+things.+Stay+consistent.&fontSize=18&fontColor=ffffff&theme=tokyonight" width="100%"/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Vishal-2209&color=3776AB&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Vishal-2209)
+**"Build useful things. Stay consistent."**
 
 </div>
