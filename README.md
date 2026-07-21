@@ -18,8 +18,6 @@ Building robust backend systems and scaling digital platforms from concept to la
 
 ## 🚀 About Me
 
-I'm a **Full Stack Python Developer** based in Ahmedabad, India, with **2+ years of hands-on experience** building production-ready web applications. I specialize in **Django, React.js, and modern backend systems** — from designing scalable APIs to deploying full-stack products that serve real users.
-
 - 🏗️ Built **LawPrix** — a production-grade multi-portal legal SaaS platform with an AI-powered case assessment engine using NVIDIA Nemotron and OpenAI
 - 📈 Created **Nexus** — a student resource platform scaled to **1,200+ concurrent active users** within its first exam cycle
 - 🎨 Shipped **3+ client products** from concept to live deployment as a freelance developer
